@@ -29,4 +29,3 @@ def get_weather(city: str) -> dict:
 
     return weather_info
 
-
